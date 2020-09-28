@@ -1,0 +1,8 @@
+   Normalization                                          Denormnalization
+(1) It is process of create set scheme to store        It is process of combining data so that it cane be
+   non redundant dataand consistant data               Querid speedly 
+(2) To reduce the data redundancy and inconsistency    It achieve the faster execution of the queries through introducing redundancy
+(3)Data integrity is maintained                        It may not retain.
+(4)Redundancy Eliminated                               Redundancy added.
+(5) tables increase                                    tables decrease. 
+(6) Disk space optimize usage                          disk space wastage.

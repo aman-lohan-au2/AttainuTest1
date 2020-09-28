@@ -1,0 +1,5 @@
+Producer Consumer Problem:- It is a multiprocess synchronization problem.In this problem we have
+Producer , Consumer and Buffer.In this problem we have producer and consumer that share same fixed size buffer.
+Producer:- The producer job is to generate a piece of datra, put it into the buffer and start again.
+Consumer:- The consumer is consuming the data one piece at a time.
+producer Consumer problem use fixed size buffer used as queue.

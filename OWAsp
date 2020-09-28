@@ -1,0 +1,11 @@
+OWASP :- it is used for security Risks
+(1) Injection:-It flaws such as SQL,NO-SQl,OS ans LDAP injection.
+(2) Broken Authentication:- Application function related to authentication are often implmented incorectly.
+(3) Sensitive data Exponsure:- Sensitive data may be compromised without extra protection such as encryption.
+(4) XML External Entities:-
+(5)Broken Access Control
+(6)Security mesconfiguration
+(7)Cross-Site Scripting XSS
+(8) Insecure Seserialization
+(9) Using Components With Known Vulnerabilities
+(10) Insufficient logging and Monitoring.

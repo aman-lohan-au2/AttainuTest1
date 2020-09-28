@@ -1,0 +1,13 @@
+CAP stands for Consistency,Availability and partition Tolerance.
+It states that it is possible for distributed data store to simultaneously provides more than 2 of 3 gurantees.
+CAP theorem is derived by Eric Brewer.
+                                           
+                                                Difference
+                       Forward Proxy                                                                                  Reverse Proxy
+  (1) Forward proxy connection initiates from insidesecured zone and distributed       Reverse Proxy connection comed from oiutside global network and destined to inside secure network. 
+to outside unsecured global network.
+(2)  Forward Proxy are not used for Application Delivery                                Reverse proxy are built for application delivery
+(3) Forward Proxy are good for content filtering,Netting,Email Security etc             It is used for load balancing Content Switching,Authentication and application firewall.
+(4) Forward Proxy restrict the internal user from accessing for user filtered/          it restricted the outside user/client to have direct access to internal/private network.
+    restricted site
+

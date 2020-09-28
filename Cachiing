@@ -1,0 +1,10 @@
+Caching:-  Caching is storing copies of files in a cache memory so that data can be used very fast.Data is been stored in cache memory apart from main memory because in main memory it have lots of data and it takes more time to get data from main memory and use that data vive verse in cache it become very fast because in cache memory cache provide index to your particular data so your whole data can be accessed only by that data. Cache have Index,Tag and data.It is used in big companies.In this we have CAche hit if we get data or Cache miss if we doesnt get data.
+
+       Types of cache:-
+There are three types of cache 
+* Direct-mapped Cache:- In this cache cache memory location maps to single cache line
+*Fully associative cache:- In this cache every memory location can be cached in any cache line.
+* N-way-set-associative cache:- In this cache memory location cache in N lines.
+  
+                   Different ways of Update Cache:-
+Insert Operation etc 

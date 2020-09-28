@@ -1,0 +1,7 @@
+                    SQL                                      NON-SQL
+ (1)  It is Rational Database.                   It is distributed database.
+ (2)  It is vertically Scalable                  It is horizontally scalable.
+ (3)  It is table base Database                  It is document base Database.
+ (4)  It is pre-defined schema                   It is dynamic scheme
+ (5)  It is structured Query language.           It is unstructured Query language.
+ (6)  It is not preferred for large data sets    It is largery prefered dor large data set.                                            
